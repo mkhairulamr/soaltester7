@@ -1,0 +1,262 @@
+ YAYASAN BUNAYYA LHOKSEUMAWE
+ SEKOLAH MENENGAH PERTAMA ISLAM TERPADU
+ (SMPIT) BUNAYYA LHOKSEUMAWE
+ NPSN: 69965416
+       JL. TGK. DI LHOKSEUMAWE LR. HJ. FATIMAH, UTEUN BAYI LHOKSEUMAWE
+        E-mail: smpit.bunayya.lhokseumawe@gmail.com, Website: smpitbunayyalsm.sch.id
+		
+ASSESMEN AKHIR SEMESTER GANJIL
+Tahun Ajaran 2026/2027
+Nama	: ..................................................
+Kelas	: VII (Tujuh)
+Pelajaran	: Informatika
+Waktu Ujian	: 60 Menit
+Nama Guru    : M. Khairul A., S.Pd., Gr.Nilai
+
+
+   
+A. 
+A. Pilihlah salah satu jawaban yang benar!
+1. Berpikir komputasional adalah cara berpikir untuk ....
+A. bermain komputer
+B. menyelesaikan persoalan yang penyelesaiannya dapat dikembangkan untuk dilakukan komputer
+C. memperbaiki komputer
+D. membuat komputer menjadi manusia
+
+2. Salah satu fondasi berpikir komputasional adalah ....
+A. menggambar
+B. mengetik
+C. dekomposisi
+D. mencetak
+
+3. Dekomposisi adalah ....
+A. menggabungkan semua masalah menjadi satu
+B. membagi masalah kompleks menjadi masalah yang lebih kecil
+C. menghapus masalah
+D. mengabaikan masalah
+
+4. Menyaring bagian penting dari suatu permasalahan dan mengabaikan bagian yang tidak penting disebut ....
+A. abstraksi
+B. algoritma
+C. iterasi
+D. debugging
+
+5. Algoritma merupakan ....
+A. kumpulan gambar
+B. langkah-langkah terstruktur untuk melakukan suatu pekerjaan
+C. perangkat keras komputer
+D. jaringan internet
+
+
+
+6. Contoh algoritma dalam kehidupan sehari-hari adalah ....
+A. langkah-langkah memasak mi instan
+B. menonton televisi
+C. mendengarkan musik
+D. melihat gambar
+
+7. Solusi yang baik dalam Informatika pada umumnya diusahakan agar ....
+A. rumit dan panjang
+B. efisien dan efektif
+C. mahal dan sulit
+D. lambat tetapi aman
+
+8. Data yang disusun dalam bentuk daftar dalam Informatika sering disebut ....
+A. list
+B. sound
+C. sprite
+D. stage
+
+9. Pemrograman visual memungkinkan pengguna membuat program dengan cara ....
+A. menyusun elemen visual/blok
+B. menggambar di kertas
+C. mengetik surat
+D. mencetak dokumen
+
+10. Aplikasi pemrograman visual yang dipelajari dalam buku adalah ....
+A. Excel
+B. Word
+C. Scratch
+D. Paint
+
+11. Dalam Scratch, objek yang digunakan dalam sebuah proyek disebut ....
+A. worksheet
+B. sprite
+C. cell
+D. formula
+
+12. Backdrop pada Scratch digunakan sebagai ....
+A. latar gambar
+B. tempat menyimpan rumus
+C. pengolah data
+D. alat mencetak
+
+13. Blok Motion pada Scratch digunakan untuk ....
+A. mengolah angka
+B. membuat pergerakan sprite
+C. membuat tabel
+D. mencari informasi
+
+14. Perintah yang digunakan untuk menjalankan suatu perintah secara berulang disebut ....
+A. looping/pengulangan
+B. printing
+C. saving
+D. copying
+
+15. Data adalah ....
+A. fakta atau keterangan yang dapat dikumpulkan dan dianalisis
+B. hanya gambar
+C. hanya suara
+D. hanya angka
+
+16. Data yang dinyatakan dalam bentuk angka disebut data ....
+A. kualitatif
+B. kuantitatif
+C. visual
+D. digital
+
+17. Contoh data kuantitatif adalah ....
+A. warna rambut
+B. pendapat siswa
+C. tinggi badan
+D. jenis olahraga favorit
+
+18. Contoh data kualitatif adalah ....
+A. berat badan
+B. tinggi badan
+C. nilai ujian
+D. warna mata
+
+19. Data yang telah diolah sehingga mempunyai makna dapat menjadi ....
+A. informasi
+B. perangkat keras
+C. program
+D. jaringan
+
+20. Salah satu perangkat yang dapat digunakan untuk mengumpulkan data foto adalah ....
+A. kamera
+B. keyboard saja
+C. speaker
+D. printer
+
+21. Data yang disajikan dalam bentuk tabel dapat dibuat menjadi ....
+A. grafik
+B. kabel
+C. keyboard
+D. folder
+
+22. Perangkat pengolah lembar kerja menggunakan kumpulan baris dan kolom yang disebut ....
+A. worksheet
+B. sprite
+C. backdrop
+D. browser
+
+23. Pertemuan antara baris dan kolom pada worksheet disebut ....
+A. range
+B. cell
+C. workbook
+D. ribbon
+
+24. Kumpulan beberapa cell disebut ....
+A. range
+B. formula bar
+C. workbook
+D. menu
+
+25. Pada alamat cell D3, huruf D menunjukkan ....
+A. baris
+B. kolom
+C. worksheet
+D. halaman
+
+26. Pada alamat cell D3, angka 3 menunjukkan ....
+A. kolom
+B. baris
+C. workbook
+D. range
+
+27. Fungsi Freeze Panes digunakan untuk ....
+A. menghapus data
+B. membuat baris atau kolom tertentu tetap terlihat saat melakukan scroll
+C. mencetak data
+D. membuat akun
+
+28. Literasi informasi adalah kemampuan untuk ....
+A. mengakses, menilai, mengevaluasi, dan menggunakan informasi secara efektif
+B. bermain game sepanjang hari
+C. membuat komputer
+D. memperbaiki jaringan listrik
+
+29. Data yang telah diatur atau diolah sehingga memiliki makna disebut ....
+A. informasi
+B. hardware
+C. algoritma
+D. aplikasi
+
+30. Salah satu tempat untuk memperoleh informasi di internet adalah ....
+A. mesin pencari
+B. kalkulator
+C. printer
+D. keyboard
+
+31. Contoh mesin pencari adalah ....
+A. Google
+B. Excel
+C. Scratch
+D. PowerPoint
+
+32. Agar hasil pencarian lebih sesuai dengan kebutuhan, kita perlu menggunakan ....
+A. kata kunci yang relevan
+B. kata secara acak
+C. angka sebanyak-banyaknya
+D. gambar tanpa keterangan
+
+33. Mesin pencari bekerja melalui beberapa proses, yaitu ....
+A. crawling, indexing, dan ranking
+B. typing, printing, dan scanning
+C. copying, pasting, dan deleting
+D. drawing, coloring, dan saving
+
+34. Proses mesin pencari menjelajahi halaman web disebut ....
+A. ranking
+B. indexing
+C. crawling
+D. printing
+
+35. Proses menyimpan informasi hasil crawling ke dalam database disebut ....
+A. indexing
+B. browsing
+C. chatting
+D. downloading
+
+36. Proses menentukan peringkat halaman web berdasarkan berbagai faktor disebut ....
+A. crawling
+B. ranking
+C. editing
+D. uploading
+
+37. Informasi yang dapat dipercaya sebaiknya berasal dari sumber yang ....
+A. kredibel
+B. tidak dikenal
+C. tidak jelas
+D. tidak memiliki sumber
+
+38. Pernyataan yang dapat dibuktikan kebenarannya disebut ....
+A. opini
+B. fakta
+C. hoaks
+D. komentar
+
+39. Pernyataan yang berisi pendapat atau pandangan seseorang disebut ....
+A. fakta
+B. opini
+C. data mentah
+D. indeks
+
+40. Informasi palsu atau berita bohong disebut ....
+A. fakta
+B. opini
+C. hoaks
+D. data
+
+

@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Informatika Kelas VII — SMPIT Bunayya",
+  "description": "Portal asesmen akhir semester ganjil Informatika Kelas VII SMPIT Bunayya Lhokseumawe dengan 20 soal acak dari 40 bank soal, penghitungan nilai otomatis, dan pembahasan jawaban.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
